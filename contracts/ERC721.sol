@@ -1,5 +1,5 @@
 //SPDX-License-Identifier: Unlicense
-pragma solidity ^0.8.2;
+pragma solidity ^0.8.4;
 
 contract ERC721 {
     mapping(address => uint256) internal _balances;

@@ -1,0 +1,16 @@
+{
+  "name": "Ramen image",
+  "description": "This is noodle with eggs",
+  "image": "https://ipfs.io/ipfs/QmNWYn1nymenfqgN32NM2tcyNibmmPVyoCSXW2E83ogRPL",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "orange"
+    },
+    {
+      "trait_type": "Beautiful",
+      "value": 6,
+      "max_value": 10
+    }
+  ]
+}
