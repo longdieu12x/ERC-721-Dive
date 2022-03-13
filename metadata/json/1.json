@@ -1,0 +1,22 @@
+{
+  "name": "first car",
+  "description": "This is my first car",
+  "image": "https://ipfs.io/ipfs/QmdZ3xHQgZaEAY3iMvMcFDc79UsatD49YkB9NdK5p8P3FL/1.jpg",
+  "attributes": [
+    {
+      "trait_type": "Speed",
+      "value": 6,
+      "max_value": 10
+    },
+        {
+      "trait_type": "Control",
+      "value": 3,
+      "max_value": 10
+    },
+        {
+      "trait_type": "Acceleration",
+      "value": 9,
+      "max_value": 10
+    }
+  ]
+}

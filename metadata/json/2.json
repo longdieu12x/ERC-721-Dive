@@ -1,0 +1,22 @@
+{
+  "name": "second car",
+  "description": "This is my second car",
+  "image": "https://ipfs.io/ipfs/QmdZ3xHQgZaEAY3iMvMcFDc79UsatD49YkB9NdK5p8P3FL/2.jpg",
+  "attributes": [
+    {
+      "trait_type": "Speed",
+      "value": 8,
+      "max_value": 10
+    },
+        {
+      "trait_type": "Control",
+      "value": 5,
+      "max_value": 10
+    },
+        {
+      "trait_type": "Acceleration",
+      "value": 4,
+      "max_value": 10
+    }
+  ]
+}

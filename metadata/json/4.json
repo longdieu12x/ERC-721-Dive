@@ -1,0 +1,22 @@
+{
+  "name": "forth car",
+  "description": "This is my forth car",
+  "image": "https://ipfs.io/ipfs/QmdZ3xHQgZaEAY3iMvMcFDc79UsatD49YkB9NdK5p8P3FL/4.jpg",
+  "attributes": [
+    {
+      "trait_type": "Speed",
+      "value": 9,
+      "max_value": 10
+    },
+        {
+      "trait_type": "Control",
+      "value": 3,
+      "max_value": 10
+    },
+        {
+      "trait_type": "Acceleration",
+      "value": 7,
+      "max_value": 10
+    }
+  ]
+}
